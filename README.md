@@ -23,3 +23,5 @@ Here is a before and after snapshot of the image after the script was pedestrian
 ![Before](peds.jpeg)
 
 ![After](peds_saved.jpg)
+
+Based on [this tutorial](https://medium.com/analytics-vidhya/getting-started-with-image-processing-using-python-c027fbdd4608).
